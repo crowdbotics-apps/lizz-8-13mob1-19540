@@ -166,7 +166,7 @@ export class _Blank extends React.Component {
           letterSpacing: 0
         }}
       >
-        Sample text content
+        Sample text content x x
       </Text>
       <Input
         placeholder="Sample text input placeholder"
