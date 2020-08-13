@@ -278,7 +278,7 @@ export class _Blank extends React.Component {
         onSelect={nextValue => this.setState({ Datepicker_6: nextValue })}
       />
       <Input
-        placeholder="Sample text input placeholder"
+        placeholder="Sample text input placeholder x"
         editable={true}
         multiline={true}
         textStyle={{
